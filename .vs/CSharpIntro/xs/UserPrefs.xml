@@ -1,3 +1,4 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{069EFACD-A508-4A0B-9969-0DD1A072C4BE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReferenceTypes PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

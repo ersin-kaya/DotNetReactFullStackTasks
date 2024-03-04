@@ -1,0 +1,15 @@
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/bin/Debug/net7.0/ReferenceTypes
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/bin/Debug/net7.0/ReferenceTypes.deps.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/bin/Debug/net7.0/ReferenceTypes.runtimeconfig.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/bin/Debug/net7.0/ReferenceTypes.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/bin/Debug/net7.0/ReferenceTypes.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.csproj.AssemblyReference.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.AssemblyInfoInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.AssemblyInfo.cs
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.csproj.CoreCompileInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/refint/ReferenceTypes.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ReferenceTypes.genruntimeconfig.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/ReferenceTypes/obj/Debug/net7.0/ref/ReferenceTypes.dll
