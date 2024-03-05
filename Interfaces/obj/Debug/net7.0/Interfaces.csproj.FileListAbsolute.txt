@@ -1,0 +1,15 @@
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll
