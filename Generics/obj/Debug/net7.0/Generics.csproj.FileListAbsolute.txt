@@ -1,0 +1,15 @@
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/bin/Debug/net7.0/Generics
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/bin/Debug/net7.0/Generics.deps.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/bin/Debug/net7.0/Generics.runtimeconfig.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/bin/Debug/net7.0/Generics.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/bin/Debug/net7.0/Generics.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.csproj.AssemblyReference.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.AssemblyInfoInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.AssemblyInfo.cs
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.csproj.CoreCompileInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/refint/Generics.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/Generics.genruntimeconfig.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/Generics/obj/Debug/net7.0/ref/Generics.dll
