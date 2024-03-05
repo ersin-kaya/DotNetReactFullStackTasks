@@ -1,0 +1,15 @@
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/bin/Debug/net7.0/LinqProject
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/bin/Debug/net7.0/LinqProject.deps.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/bin/Debug/net7.0/LinqProject.runtimeconfig.json
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/bin/Debug/net7.0/LinqProject.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/bin/Debug/net7.0/LinqProject.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.csproj.AssemblyReference.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.AssemblyInfoInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.AssemblyInfo.cs
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.csproj.CoreCompileInputs.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/refint/LinqProject.dll
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.pdb
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/LinqProject.genruntimeconfig.cache
+/Users/ersin/Desktop/DotNetReactFullStackTasks/CSharpIntro/LinqProject/obj/Debug/net7.0/ref/LinqProject.dll

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{8FD7E145-73EB-4581-8D7D-57A4894D67FA}|Default">
+﻿<Properties StartupConfiguration="{A436D0B3-4C7A-4584-8258-EEEC293EBB12}|Default">
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ReferenceTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -6,7 +6,7 @@
   <MonoDevelop.Ide.ItemProperties.Constructors PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Program.cs">
     <Files>
       <File FileName="Interfaces/Program.cs" Line="17" Column="1" />
@@ -21,4 +21,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinqProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
